@@ -1,0 +1,21 @@
+.para {
+  width: 50%;
+
+
+  border-style: solid;
+  border-color: blue;
+
+  color:black;
+  font-style: italic;
+
+  padding: 20px;
+
+  text-align: left;
+
+  margin: 20px;
+
+  background-color: black;
+  background-image: url(https://s.yimg.com/fz/api/res/1.2/HXLKmUmbtfpJqpmclOaHyg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD00MTI7cHhvZmY9NTA7cHlvZmY9MTAwO3E9ODA7c3M9MTt3PTM4OA--/https://i.pinimg.com/736x/73/a3/1a/73a31a92d161ad4ceb98928b47e7c68a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
