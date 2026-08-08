@@ -1,0 +1,35 @@
+.template {
+       width: 100px;
+    height: 100px;
+
+
+    color: aliceblue;
+    text-align: left;
+
+
+    border-style:hidden;
+    border-color: black;
+
+    padding: 10px;
+
+    /* background-image: url(https://s.yimg.com/fz/api/res/1.2/hU7xNdHSThGOFyfT5T_78Q--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD00MTI7cHhvZmY9NTA7cHlvZmY9MTAwO3E9ODA7c3M9MTt3PTM4OA--/https://i.pinimg.com/736x/e2/38/45/e238455e5a1e346f73dd9f64c2a12a68.jpg); */
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+body {
+    background-image:url("99785.jpg");
+     background-repeat: no-repeat;
+    background-size:cover;
+}
+.p1 {
+    text-align: center;
+    color: azure;
+    font-size: 350%;
+    font-family: fantasy;
+}
+.p2 { 
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color: azure;
+}
+
