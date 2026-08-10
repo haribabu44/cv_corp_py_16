@@ -1,0 +1,17 @@
+.para {
+    width: 50%;
+
+
+    border-style: dotted;
+    border-color: brown;
+    border-width: 3px;
+
+
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    text-align: justify;
+
+    padding: 50px;
+    margin: 100%;
+}

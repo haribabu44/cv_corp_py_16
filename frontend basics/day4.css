@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://www.w3schools.com/w3images/forestbridge.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: aliceblue;
+}
+
+
+
+
+
+h1 {
+    text-align: center;
+    margin-top: 350px;
+}
+ 
+.days {
+    text-align: center;
+}
+.footer {
+    margin-top: 300px;
+}

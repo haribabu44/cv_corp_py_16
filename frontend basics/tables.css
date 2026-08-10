@@ -1,0 +1,15 @@
+table,
+table th,
+table td {
+    border: 3px solid white;
+    border-collapse: separate;
+
+    padding: 10px;
+}
+table th {
+    background-color: pink;
+
+}
+table td {
+    background-color: yellow;
+}
