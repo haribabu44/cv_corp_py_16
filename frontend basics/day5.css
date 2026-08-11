@@ -1,0 +1,39 @@
+
+body {
+    background-color: #F0F8FF;
+}
+
+
+
+
+form{
+    width: 500px;
+
+
+    padding: 30px;
+
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+}
+
+form h1 {
+    text-align: center;
+    color: blue;
+}
+form input {
+    width: 100%;
+
+    box-sizing: border-box;
+
+    margin-top: 10px;
+
+    padding: 7px;
+
+}
+.btn {
+    background-color: blue;
+}
